@@ -1,0 +1,107 @@
+Machine Learning
+----------------
+
+What is machine learning?
+
+a. Supervised Learning
+b. Unsupervised Learning
+c. Semi Supervised Learning
+d. Reinforcementcm Learning
+
+
+def add(x, y):
+   return x + y
+
+
+# * means we can accept more than one value
+def add(*numbers):
+   res = 0
+   for num in numbers:
+      res += num
+   return res
+
+
+Algorithms
+----------
+set of rules and processes used to solve a specific problem or perform a specific task.
+
+Model
+-----
+is the output or result of applying an algorithm to a dataset.
+
+ALL MACHINE LEARNING IS ARTIFICIAL INTELLIGENCE, BUT NOT ALL ARTIFICIAL INTELLIGENCE IS MACHINE LEARNING
+
+
+How Machine Learning works?
+--------------------------
+Gather and compile data - Training data
+select an appropriate algorithm
+Refine and prepare data for analysis
+Educate your model through trainings
+Access Model performance and accuracy
+Fine tune and enhance model parameters
+launch the model
+
+Python Environment for ML
+-------------------------
+1. Download the latest version python
+2. Create a virtual environment
+3. upgrade the package manager
+4. Install the core ML libraries (numpy, pandas, matplotlib, seaborn, Scikit-learn, TensorFlow, Pytorch
+
+5. Jupyter Notebook / lab
+
+
+Data handling ->  Numpy, Pandas
+
+Visualization -> Matplotlib, Seaborn
+
+ML algorithms -> scikit-learn
+
+Deep Learning -> TensorFlow, Pytorch
+
+Experimentation -> Jupyter Notebook
+
+
+What is Artificial Intelligence?
+--------------------------------
+More of mimicking human intelligence -> self driving car, chess 
+					 playing computer
+
+
+Goal - simulate reasoning, problem solving perception
+
+Narrow AI(weak ai) - specialized systems(eg: siri, alexa, recommendation engines) Driverless car
+
+
+General AI (strong AI) - Hypothetical form of AI that can perform any intellectual task like Human with reasoning, creativity and adaptability
+
+
+Super AI - Theoretical AI surpassing human intelligence
+
+
+What is deep learning?
+----------------------
+Neural networks
+
+Inspired by how the huma processes information
+
+using layers of neurons (input -> hidden layers -> output) to automatically extract some features
+
+Learns Hierarchical Representation
+   a. Early Layer -> simple features (edges in images)
+   b. Deeper Layer -> Complex features (faces, object, meaning)
+
+
+What is GENERATIVE AI / AGENTIC AI?
+-----------------------------------
+prompt engineering
+
+LLMs
+
+RAGS
+
+MSP
+
+
+
