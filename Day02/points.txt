@@ -1,0 +1,45 @@
+Setting up Python Environment and ML Libraries
+Python -> https://www.python.org/downloads/
+
+PyCharm -> https://pycharm-community-edition.en.softonic.com/
+
+Virtual Environment ->
+
+numpy, pandas, matplotlib, seaborn scipy
+
+
+
+scikit, tensorflow
+
+ 
+Data Collection and Data Preparation 
+Data Cleaning and Preprocessing Techniques 
+Exploratory Data Analysis (EDA) 
+
+EDA - Exploratory Data Analysis
+-------------------------------
+1. Generate Dataset
+
+2. Data Overview
+
+3. Missing values
+
+4. Univariate Analysis
+
+5. Bivariate Analysis
+
+6. Multivariate Analysis
+
+7. Outlier Detection
+
+8 Feature Engineering and Summary
+
+
+
+
+
+
+
+
+
+

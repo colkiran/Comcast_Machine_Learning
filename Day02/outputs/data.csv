@@ -1,0 +1,501 @@
+,gender,race_group,parent_education,luch,test_prep,math_score,reading_score,wrting_score
+0,Male,A,some college,standard,completed,84.17564288,79.07373185,67.42540596
+1,Female,A,bachelor's,free/reduced,completed,96.42813983,93.23949535,72.44002771
+2,Female,A,some college,standard,completed,66.33541746,74.72554565,
+3,Female,E,high school,standard,none,60.01824494,58.92773104,53.67474409
+4,Male,D,bachelor's,standard,none,42.79243176,,44.6093414
+5,Male,E,some college,free/reduced,none,40.58832085,31.90747177,45.10730721
+6,Male,D,bachelor's,standard,none,53.94164423,49.52319371,40.80838281
+7,Female,E,some college,standard,completed,60.67658035,49.72273342,59.38846694
+8,Female,E,bachelor's,standard,completed,58.8465237,50.92642198,55.16250936
+9,Female,C,some college,standard,none,57.56805506,68.1413483,48.30075406
+10,Male,E,master's,standard,none,64.03548999,58.94358956,48.85326491
+11,Female,B,bachelor's,standard,completed,84.85074278,66.63086046,77.93961918
+12,Female,C,high school,standard,none,49.30271625,57.97330483,56.51965177
+13,Male,E,associate's,standard,none,32.55938462,42.06174228,36.87148107
+14,Male,A,master's,standard,none,70.50901407,70.94298849,51.2907674
+15,Male,B,associate's,free/reduced,none,59.82962371,38.82317616,46.61866653
+16,Male,B,some college,standard,none,47.65540142,61.33091873,42.85489935
+17,Female,B,associate's,standard,none,61.1399986,51.38688101,68.53775692
+18,Male,C,associate's,free/reduced,none,47.09682494,51.54625689,43.93570866
+19,Male,E,bachelor's,standard,completed,75.95807944,87.15895791,62.94126582
+20,Female,E,bachelor's,standard,none,95.59509324,,67.44058874
+21,Male,A,some college,free/reduced,completed,44.33273433,35.42905374,
+22,Male,A,some college,standard,none,51.80509496,37.29768252,39.43617754
+23,Male,B,bachelor's,standard,none,55.88193854,63.3542267,44.2095571
+24,Male,A,associate's,standard,completed,62.8008814,58.23710754,58.17624005
+25,Female,C,high school,standard,none,67.23909496,56.42226969,57.20283472
+26,Male,E,master's,standard,none,75.51391871,71.60518741,79.96597709
+27,Female,B,bachelor's,standard,none,74.18519803,64.3358619,74.03736956
+28,Female,A,bachelor's,standard,completed,72.36594606,69.88505264,59.23240966
+29,Male,C,bachelor's,standard,none,48.13480816,46.63696058,39.32251914
+30,Female,C,associate's,free/reduced,none,46.62377566,50.74693518,56.63025396
+31,Male,A,bachelor's,free/reduced,completed,,63.56007585,83.56802379
+32,Male,E,associate's,standard,none,62.04998278,67.93318319,39.12200165
+33,Female,A,high school,standard,completed,78.12248887,74.17285362,68.99105298
+34,Female,B,some college,free/reduced,completed,69.51914524,67.30973788,60.03875811
+35,Female,A,associate's,standard,completed,53.80382008,41.41150564,55.93171158
+36,Male,C,bachelor's,standard,none,57.73717823,,69.11211332
+37,Male,A,high school,free/reduced,completed,69.7777698,62.22359855,58.3675381
+38,Female,E,high school,standard,none,63.52398995,63.46738337,41.25168465
+39,Male,D,some college,free/reduced,none,68.26130359,58.61338198,65.78020018
+40,Male,A,some college,free/reduced,none,45.41771064,46.1503955,55.82046421
+41,Female,E,bachelor's,standard,completed,57.58763801,55.56774732,51.03302111
+42,Male,E,some college,standard,none,55.72236976,29.23232987,46.47980639
+43,Female,C,associate's,standard,none,77.2808822,72.62024665,64.14415994
+44,Male,E,associate's,free/reduced,none,51.67358015,64.47791681,56.00662065
+45,Female,E,associate's,free/reduced,completed,73.45966269,69.41298909,61.2552696
+46,Male,E,bachelor's,free/reduced,completed,77.46073367,60.43388426,
+47,Female,E,some college,standard,completed,75.129273,71.54664728,66.31549988
+48,Female,B,bachelor's,free/reduced,none,83.97328305,81.45580653,71.85772689
+49,Male,B,associate's,free/reduced,none,78.7428771,73.15688995,
+50,Female,C,some college,standard,completed,58.86472999,53.55553064,50.5539664
+51,Female,A,master's,free/reduced,none,43.8252547,40.93174722,40.10949091
+52,Female,E,some college,free/reduced,none,49.85764798,45.42275794,54.27832934
+53,Female,A,high school,free/reduced,completed,63.90806753,63.51326585,
+54,Female,A,bachelor's,standard,completed,67.66025667,49.48820054,53.67362327
+55,Female,C,high school,standard,completed,86.61478732,71.9861052,64.28013254
+56,Male,E,bachelor's,standard,completed,72.22536365,76.93390132,70.79434914
+57,Male,E,associate's,standard,completed,75.84454256,79.95696905,65.7661749
+58,Male,D,master's,standard,none,71.60657172,51.87975208,53.04781047
+59,Male,A,bachelor's,free/reduced,none,59.8404018,,61.91555779
+60,Male,A,associate's,free/reduced,completed,44.90225986,41.51173026,39.88528981
+61,Male,B,master's,free/reduced,none,68.05658834,68.18315739,54.02731897
+62,Female,D,some college,standard,completed,100,74.17203081,86.07472414
+63,Male,B,master's,standard,none,54.0664992,50.11140532,62.7576683
+64,Male,B,high school,standard,none,33.22152347,31.12270935,32.75979932
+65,Female,B,associate's,free/reduced,completed,91.23667163,89.03522112,82.29311449
+66,Male,C,some college,free/reduced,completed,74.90499564,52.76347894,71.74823702
+67,Female,C,associate's,free/reduced,completed,70.24903857,63.42710385,66.12549415
+68,Male,B,high school,standard,none,71.35208635,60.36518926,73.54207537
+69,Female,D,bachelor's,free/reduced,completed,62.02197668,68.27487392,50.99889518
+70,Female,A,bachelor's,free/reduced,none,62.72086287,61.82186832,48.81234252
+71,Male,D,master's,standard,none,,65.65986178,61.42879832
+72,Male,E,high school,free/reduced,none,80.32425241,77.07028086,68.67771442
+73,Female,C,associate's,standard,none,45.97746822,41.37247034,37.52740386
+74,Female,A,associate's,standard,none,75.3688135,74.52124782,67.44587302
+75,Female,A,some college,standard,completed,70.58206873,61.03993562,63.43499684
+76,Female,E,some college,standard,completed,67.95673281,69.40488224,69.07743405
+77,Male,E,some college,standard,completed,65.90724933,62.91909264,61.78237399
+78,Male,B,bachelor's,standard,none,47.38424055,71.62210906,42.78743835
+79,Male,C,associate's,standard,completed,79.55706798,69.24463294,72.56788258
+80,Female,C,associate's,standard,completed,58.61277176,57.02247715,45.95964351
+81,Female,D,high school,standard,completed,50.04371157,43.69738574,47.72634683
+82,Male,B,high school,standard,none,65.62550751,59.24061336,61.80557527
+83,Male,B,high school,standard,none,64.4696083,36.73752515,59.45265876
+84,Male,B,master's,standard,none,69.948001,66.18567288,65.68308148
+85,Male,B,high school,standard,none,67.95452345,,55.77488876
+86,Female,C,high school,standard,none,72.11123898,67.25646927,73.13634329
+87,Female,C,some college,standard,completed,81.69868893,60.76312504,85.40040763
+88,Female,B,bachelor's,standard,none,97,46.83119202,40.69426051
+89,Male,D,master's,free/reduced,none,81.16925918,51.43540736,60.71708264
+90,Male,A,bachelor's,standard,none,66.53969173,67.73616085,60.25324211
+91,Female,A,bachelor's,standard,none,84.71089324,65.48106359,
+92,Female,D,associate's,free/reduced,none,58.51525996,53.65677625,69.30228642
+93,Female,B,high school,free/reduced,none,50.72234035,46.81185469,50.27835964
+94,Female,C,master's,free/reduced,none,61.63443748,68.12764439,67.51715701
+95,Female,A,bachelor's,free/reduced,completed,74.27145473,66.38584159,49.08245631
+96,Female,E,associate's,standard,completed,73.60070561,71.67167257,71.50586391
+97,Male,E,bachelor's,standard,none,69.8315474,66.74537066,56.55457957
+98,Male,D,bachelor's,standard,none,68.19007048,72.01784422,55.24451019
+99,Male,B,associate's,standard,completed,76.05244415,65.12634356,64.77089558
+100,Male,A,master's,standard,none,66.32949797,74.70404612,48.36056942
+101,Female,B,master's,standard,none,58.52981621,38.01206491,
+102,Male,A,bachelor's,standard,completed,60.48206404,62.22133601,57.07280584
+103,Female,D,bachelor's,free/reduced,none,75.70061314,,68.63397945
+104,Female,D,high school,free/reduced,completed,68.64386773,57.54090437,68.51983294
+105,Male,E,bachelor's,standard,none,,45.8527742,54.16381803
+106,Male,B,high school,free/reduced,none,68.16104112,65.61199724,58.16626121
+107,Female,E,associate's,standard,none,82.56522176,76.77534043,75.26576478
+108,Male,B,master's,free/reduced,completed,68.40899779,50.21748479,63.59838408
+109,Male,E,associate's,standard,none,64.03392056,69.61768227,61.12533885
+110,Male,C,associate's,free/reduced,none,54.31850288,43.53370021,54.25010339
+111,Male,C,some college,free/reduced,completed,73.53968311,59.01646561,77.67259859
+112,Female,C,high school,standard,none,41.00789333,45.8590939,37.84826825
+113,Female,C,bachelor's,standard,none,63.14265211,55.06321969,45.2568223
+114,Female,A,some college,standard,completed,77.77576954,70.79791388,62.41556392
+115,Female,C,high school,standard,none,69.82854087,45.11860008,68.3346849
+116,Female,D,associate's,standard,completed,73.11794983,67.11305797,64.83155994
+117,Male,D,bachelor's,standard,completed,67.93145636,62.69124731,
+118,Female,A,bachelor's,standard,completed,52.88878699,45.58772194,41.46794848
+119,Female,C,high school,free/reduced,none,,27.83944492,46.82505947
+120,Female,C,associate's,free/reduced,completed,62.36871914,55.07407327,62.06152799
+121,Female,C,associate's,standard,none,2,48.42140507,51.61855655
+122,Male,E,bachelor's,standard,completed,72.71463562,61.59814479,62.327895
+123,Male,B,bachelor's,standard,none,59.89734717,40.23361466,56.29922023
+124,Male,E,some college,free/reduced,none,60.06545647,67.80696441,56.37387239
+125,Male,B,associate's,standard,none,74.43152761,60.71275349,67.10827533
+126,Female,C,associate's,free/reduced,completed,63.12245335,55.56420271,47.9737268
+127,Female,C,bachelor's,free/reduced,completed,55.40559627,32.27840263,53.47064012
+128,Male,E,associate's,standard,none,51.57950882,61.44347441,45.6124746
+129,Female,E,associate's,standard,none,,56.51989678,68.56715323
+130,Male,B,some college,free/reduced,completed,,66.3891966,66.44078344
+131,Male,D,associate's,free/reduced,none,64.87302236,67.62066633,65.39240988
+132,Male,B,bachelor's,standard,none,79.60884767,,66.90411923
+133,Male,E,associate's,standard,completed,65.76364316,67.02869227,57.22411238
+134,Female,E,bachelor's,free/reduced,none,88.62599378,59.97889168,87.76472549
+135,Male,A,bachelor's,standard,completed,81.81824563,75.77157749,74.39981836
+136,Female,E,associate's,free/reduced,none,29.71815036,44.8665501,27.680952
+137,Female,A,associate's,standard,none,,,77.93348607
+138,Male,D,bachelor's,standard,none,54.79616068,60.04817347,47.18679782
+139,Female,B,some college,free/reduced,completed,53.59078573,64.86447051,52.39095083
+140,Female,B,associate's,standard,none,66.28525332,,74.41877944
+141,Male,A,master's,standard,completed,56.14183433,,40.97186162
+142,Female,B,high school,standard,none,46.65436922,,44.18489047
+143,Male,E,some college,standard,completed,84.68518249,69.43604562,76.23950452
+144,Male,C,some college,standard,none,64.67461095,51.98307909,64.68330656
+145,Male,A,master's,standard,none,78.74687737,61.86726924,58.76788045
+146,Female,B,high school,standard,completed,55.11707279,60.92848697,
+147,Female,A,high school,free/reduced,none,36.53956001,31.08526181,47.03447802
+148,Male,A,high school,standard,none,63.48180915,59.67953218,51.94358373
+149,Male,C,high school,standard,completed,74.16307387,65.92817289,59.29915313
+150,Female,E,high school,standard,none,65.61992063,71.19969698,71.64834024
+151,Male,A,associate's,free/reduced,completed,70.50883076,58.85637321,63.32397667
+152,Male,B,associate's,free/reduced,none,48.39518108,,47.4544362
+153,Female,D,some college,standard,completed,95.25323506,87.76848391,79.14393368
+154,Female,A,some college,standard,none,63.75744932,69.73608385,48.11350697
+155,Male,A,high school,standard,none,52.9133603,,55.50319501
+156,Female,C,some college,free/reduced,completed,63.96660915,53.03181711,61.33156276
+157,Female,E,associate's,free/reduced,completed,69.79516974,53.85212887,63.60205281
+158,Male,D,bachelor's,free/reduced,none,76.83529915,85.51687133,66.39083107
+159,Female,B,high school,free/reduced,none,57.27553748,64.03243262,50.89982979
+160,Male,D,associate's,free/reduced,completed,78.30215784,68.38900723,75.67742076
+161,Female,B,some college,standard,none,59.81677225,70.3140924,53.93773152
+162,Female,E,bachelor's,standard,completed,,62.17390782,62.35677407
+163,Female,B,bachelor's,standard,completed,79.69500472,75.56653731,73.61954864
+164,Male,C,associate's,standard,none,67.2394324,60.51094952,62.07607878
+165,Female,C,some college,free/reduced,none,55.96439057,55.15573654,65.43256967
+166,Male,C,master's,standard,completed,68.00951651,63.34122892,46.87591767
+167,Male,C,high school,standard,none,59.10074698,50.92567725,56.95179733
+168,Male,D,high school,standard,none,55.94018403,60.69512633,46.63208626
+169,Female,E,some college,standard,completed,59.34153945,60.23377393,47.18921612
+170,Female,B,high school,standard,none,44.89119421,51.88995241,40.66514618
+171,Male,B,master's,standard,completed,81.92571013,74.00610008,71.42394656
+172,Female,C,bachelor's,standard,none,70.60114068,55.69829646,63.6253739
+173,Male,C,some college,standard,none,53.67961462,,38.5108728
+174,Female,A,associate's,standard,none,53.04075557,47.68011681,45.86067337
+175,Male,E,master's,standard,none,59.03693773,57.19023953,56.75636758
+176,Female,D,bachelor's,standard,none,68.58705927,66.52334532,54.36723907
+177,Male,B,associate's,standard,none,50.35227512,50.62358007,39.33536685
+178,Female,A,master's,standard,completed,100,95.24354729,68.75434422
+179,Male,A,master's,free/reduced,none,64.07662277,66.64449045,52.82962081
+180,Male,B,bachelor's,standard,none,34.89742867,34.37440347,27.92911505
+181,Male,D,high school,standard,none,54.63794,63.98219374,43.46785374
+182,Female,A,some college,free/reduced,none,,50.70747025,50.95442831
+183,Female,A,bachelor's,standard,none,77.34062281,70.6994595,62.88661741
+184,Male,E,some college,standard,none,61.45751484,52.99171066,46.91950753
+185,Female,D,bachelor's,free/reduced,none,53.9939778,45.10769517,33.94893149
+186,Female,A,high school,standard,none,51.56329752,57.02600185,51.54406465
+187,Female,D,high school,standard,none,58.92903726,79.17195312,60.45152454
+188,Female,B,some college,free/reduced,completed,40.023429,37.12349264,37.64290905
+189,Male,C,high school,free/reduced,none,71.06346081,73.02016821,61.03948621
+190,Male,A,master's,standard,none,59.02596137,51.66218053,54.52117631
+191,Female,E,bachelor's,standard,completed,89.00452585,76.66951457,88.71352723
+192,Female,B,bachelor's,standard,none,68.70958169,75.59285645,48.92923647
+193,Female,D,associate's,standard,completed,75.55512964,58.07806495,63.08377553
+194,Male,B,some college,standard,none,71.79308123,53.13953838,49.91523477
+195,Male,A,associate's,standard,none,66.87758463,59.46059928,63.05040861
+196,Female,D,associate's,standard,none,68.0746346,66.36522417,59.86206976
+197,Female,C,associate's,standard,none,58.02700271,57.22958461,55.40337886
+198,Female,B,some college,free/reduced,completed,70.46602418,,63.96051791
+199,Female,A,associate's,free/reduced,none,52.95002622,49.98557552,58.04968491
+200,Female,E,associate's,standard,completed,63.8790668,64.20162032,62.29799182
+201,Male,D,master's,standard,none,92.57634058,,85.29902888
+202,Male,B,bachelor's,standard,none,54.30167698,44.71981529,42.57292991
+203,Female,B,associate's,standard,none,61.85180552,,66.07866689
+204,Female,C,associate's,free/reduced,none,,61.65749972,50.40147056
+205,Male,C,bachelor's,standard,none,60.27094634,67.12133087,50.07612502
+206,Male,E,high school,standard,completed,69.17281124,54.79881076,63.97116471
+207,Female,E,bachelor's,standard,completed,79.07666511,80.96412784,71.35054499
+208,Male,A,bachelor's,standard,none,52.8901698,46.047134,41.50606784
+209,Male,A,associate's,standard,completed,69.21628054,60.87293214,60.44948765
+210,Female,E,some college,standard,completed,99,54.4101541,62.07422873
+211,Female,E,some college,free/reduced,completed,75.46258342,64.97104893,54.58636757
+212,Female,D,associate's,standard,none,62.11784772,65.46932665,68.60660429
+213,Male,C,high school,standard,completed,63.98795864,54.75413582,56.13774261
+214,Female,A,bachelor's,standard,none,71.90837619,60.81500221,45.07199219
+215,Male,C,high school,standard,completed,59.69387651,63.18624702,44.04573722
+216,Male,C,some college,free/reduced,none,68.96826351,55.62120253,53.94932943
+217,Female,E,master's,standard,none,57.61866153,55.20542891,48.49400189
+218,Female,D,bachelor's,free/reduced,completed,88.94251823,63.42302733,75.20090705
+219,Female,B,some college,standard,none,51.38906581,63.09891417,27.37228634
+220,Female,D,some college,standard,completed,,53.88680388,46.35944799
+221,Female,D,high school,standard,completed,97,76.29404342,46.08073432
+222,Male,C,bachelor's,free/reduced,completed,66.69638163,70.72919608,71.14557535
+223,Male,D,high school,standard,none,50.96711217,39.18813229,
+224,Male,A,associate's,standard,completed,70.77977619,68.43403102,70.50420823
+225,Male,C,master's,free/reduced,none,82.17410833,64.28651115,80.04814984
+226,Female,A,high school,standard,none,52.69952903,62.14894683,58.60984685
+227,Male,B,bachelor's,standard,completed,63.70058916,48.96631957,53.33317025
+228,Female,C,master's,standard,none,55.48143825,42.41783962,47.31303428
+229,Female,B,high school,free/reduced,none,49.3818065,34.15786325,45.75511429
+230,Female,C,bachelor's,standard,completed,,43.10253788,52.61909239
+231,Female,E,associate's,free/reduced,none,51.29840288,,44.84928791
+232,Female,D,master's,free/reduced,none,83.92864675,62.85329222,71.47452587
+233,Female,E,associate's,standard,completed,58.11968955,69.50823999,56.034927
+234,Male,B,bachelor's,free/reduced,none,71.54459033,67.89748832,
+235,Female,D,associate's,standard,completed,53.28221492,53.25953751,42.61832844
+236,Male,C,bachelor's,standard,completed,93.25315079,92.65317845,77.87615752
+237,Male,D,bachelor's,free/reduced,completed,94.0512808,82.58852293,79.51035269
+238,Female,A,associate's,free/reduced,completed,75.09225868,60.3297524,69.53751009
+239,Male,D,bachelor's,standard,none,87.89503122,62.31959547,80.65951508
+240,Female,A,some college,standard,none,62.2695157,50.26167764,48.04154874
+241,Female,D,high school,standard,completed,72.22220537,,57.50330841
+242,Female,A,high school,standard,completed,78.14320652,58.56471597,60.49709039
+243,Male,B,some college,standard,none,60.15662144,57.94248398,66.61234665
+244,Male,E,some college,standard,none,39.37147046,47.80000399,39.38529401
+245,Female,C,master's,standard,none,78.46756026,71.13342892,68.62567775
+246,Male,D,high school,standard,none,49.33768487,50.19513028,47.98532802
+247,Female,E,bachelor's,standard,completed,67.22964215,65.66706291,54.67998224
+248,Female,C,some college,standard,none,61.574739,59.21530122,68.84796823
+249,Female,C,bachelor's,standard,completed,78.79537056,81.9691213,72.02088004
+250,Male,A,master's,free/reduced,completed,78.80161561,60.77887788,69.05388748
+251,Male,B,associate's,standard,none,67.62875443,62.64496484,51.85065182
+252,Female,B,bachelor's,free/reduced,completed,63.51771439,43.09236232,48.43729443
+253,Male,E,high school,free/reduced,none,54.48755446,34.27569635,48.75977896
+254,Male,B,bachelor's,standard,none,74.18902541,64.98840081,59.81616394
+255,Female,D,some college,free/reduced,completed,87.27349412,79.80215714,66.297361
+256,Female,B,master's,standard,completed,100,99.93326252,82.84473933
+257,Female,E,high school,standard,completed,68.19572019,80.50512401,59.36949431
+258,Female,B,associate's,standard,none,70.08011792,73.11897381,63.59196827
+259,Male,D,bachelor's,standard,none,87.77894998,81.65153844,71.16948821
+260,Female,A,some college,standard,completed,57.94996756,54.74219452,45.66317109
+261,Female,E,some college,standard,none,65.55639823,46.91747417,51.41723964
+262,Male,A,high school,standard,none,64.22011539,56.9967937,67.94226492
+263,Female,A,some college,free/reduced,none,75.37433723,76.85376693,
+264,Female,A,associate's,standard,completed,54.35430343,57.95198242,54.04055686
+265,Female,C,high school,free/reduced,none,43.72713059,32.50467477,47.63990467
+266,Female,C,some college,standard,completed,66.25658653,64.60464508,58.7345385
+267,Female,A,high school,standard,completed,67.53273195,64.87669146,74.76619947
+268,Male,E,bachelor's,free/reduced,none,77.47436744,70.90489654,
+269,Male,D,high school,standard,none,61.21052531,55.68504954,70.81480261
+270,Female,D,some college,standard,none,56.18304124,57.46195266,47.24327768
+271,Female,B,high school,standard,completed,67.99753734,66.57665731,55.8866636
+272,Female,E,associate's,standard,none,63.61253372,52.57773016,62.02132154
+273,Female,C,bachelor's,free/reduced,none,84.94019716,77.34526036,71.06521686
+274,Female,A,some college,standard,none,59.98790732,53.47576937,68.67661667
+275,Female,B,high school,free/reduced,completed,58.40299904,41.90437834,56.78376238
+276,Female,D,bachelor's,standard,none,,57.55362499,53.60802826
+277,Female,C,bachelor's,standard,completed,74.38182383,53.27685039,51.66038189
+278,Female,C,high school,standard,completed,44.14807973,50.95180808,43.16070867
+279,Female,A,bachelor's,standard,none,63.81217526,60.70624647,57.23178115
+280,Female,D,master's,standard,completed,75.79114106,63.9994309,69.07974895
+281,Male,E,high school,free/reduced,none,48.47353761,57.71932395,56.58647167
+282,Male,C,bachelor's,free/reduced,completed,84.42699945,73.86417685,81.42034604
+283,Male,A,bachelor's,standard,completed,62.57184484,45.47910158,52.42052003
+284,Female,E,associate's,free/reduced,completed,73.46742343,61.58473925,54.54598966
+285,Male,D,high school,free/reduced,none,,62.9821205,40.44954644
+286,Male,C,high school,free/reduced,none,56.29234007,46.86345005,46.63607121
+287,Female,E,bachelor's,standard,none,,63.90784693,
+288,Male,E,master's,standard,none,53.30910739,55.93284354,52.82305443
+289,Female,E,bachelor's,standard,none,4,64.4445359,53.32820933
+290,Male,C,associate's,standard,none,87.46736988,95.1962058,77.21964208
+291,Male,C,bachelor's,standard,none,45.31883985,34.57870383,47.52588586
+292,Female,B,associate's,free/reduced,none,59.30870444,45.86982368,55.84901825
+293,Male,D,some college,standard,completed,79.4788719,60.33111835,60.19580379
+294,Male,A,high school,standard,none,58.61943098,51.59722586,57.9486041
+295,Female,E,bachelor's,free/reduced,none,72.25560343,72.98672167,80.6741915
+296,Female,B,some college,free/reduced,none,29.49200787,23.86512926,35.20142028
+297,Male,A,bachelor's,standard,none,71.1789925,72.29112842,39.62427379
+298,Female,B,some college,free/reduced,completed,56.85974153,52.9258195,62.86605047
+299,Male,C,high school,standard,none,58.71852741,45.16692202,48.65535753
+300,Male,E,high school,standard,completed,62.64678323,42.97412777,75.23138545
+301,Female,A,associate's,standard,completed,95.33999635,69.28443331,81.57570498
+302,Female,A,master's,standard,completed,83.56034389,67.34343065,58.68584205
+303,Female,A,high school,standard,completed,61.64851405,54.88317613,39.8693502
+304,Female,A,bachelor's,standard,completed,53.88368689,61.18126898,63.11418066
+305,Female,A,associate's,standard,completed,69.45376282,68.48302781,70.85394912
+306,Female,B,bachelor's,standard,completed,81.87874654,64.69752989,88.7608486
+307,Male,E,some college,standard,none,57.0333773,56.04435524,53.15142754
+308,Female,C,bachelor's,free/reduced,completed,65.93212368,72.66146291,59.01888998
+309,Male,C,bachelor's,standard,none,57.12896003,67.83805939,50.07110089
+310,Male,C,some college,standard,completed,72.42169723,61.80102483,58.87730007
+311,Male,C,high school,standard,none,64.11265527,65.75079889,55.02167536
+312,Male,B,bachelor's,standard,none,80.33452138,81.37053397,71.58056205
+313,Female,D,master's,standard,none,,40.73842558,46.33199463
+314,Female,E,high school,free/reduced,none,61.3117307,51.88454133,42.79013133
+315,Female,A,bachelor's,standard,none,62.53955255,74.66481429,58.30749091
+316,Male,D,master's,standard,none,67.89318954,58.51160328,53.95353168
+317,Male,C,bachelor's,free/reduced,none,68.82191025,38.18482177,
+318,Male,D,master's,standard,none,73.89187504,64.4512118,69.62268916
+319,Male,E,bachelor's,standard,completed,78.34521727,77.75591695,59.54408413
+320,Female,A,associate's,standard,none,47.31034569,45.53484276,51.35776454
+321,Female,A,some college,standard,none,49.00226311,52.47460891,52.38441429
+322,Female,E,some college,standard,completed,83.83041931,80.37859046,74.62662199
+323,Male,E,bachelor's,standard,none,61.35313039,53.17534818,76.1487966
+324,Female,C,bachelor's,free/reduced,none,67.67217278,56.59898569,59.6195496
+325,Female,A,some college,free/reduced,completed,78.65599574,70.21952462,66.3472004
+326,Female,D,bachelor's,free/reduced,completed,77.56131687,69.59321903,73.31352752
+327,Female,B,bachelor's,free/reduced,none,70.55827157,63.35131824,62.35837663
+328,Male,B,associate's,standard,none,70.73493215,63.81245129,72.21309945
+329,Male,E,associate's,free/reduced,completed,42.60003487,35.96165707,32.52157785
+330,Male,C,associate's,standard,completed,62.12059814,62.59274388,46.70943508
+331,Female,B,high school,standard,none,60.62326956,60.26130775,61.77523001
+332,Male,A,some college,standard,completed,82.65173168,61.30073183,62.1907593
+333,Male,E,high school,standard,none,55.79314672,48.7315615,57.04385449
+334,Male,D,high school,standard,none,,44.39219082,
+335,Male,E,associate's,free/reduced,none,50.1829674,43.36272154,42.57583024
+336,Female,D,associate's,standard,completed,78.60633444,74.05372665,71.53392208
+337,Female,E,high school,standard,none,52.38671701,48.75497745,39.84169668
+338,Male,E,bachelor's,standard,completed,98,65.28777982,55.77859219
+339,Male,E,some college,free/reduced,none,65.38036233,55.82959728,57.17635897
+340,Female,D,master's,standard,none,34.18171581,19.69053627,37.24225793
+341,Male,D,master's,free/reduced,none,,63.35052103,76.534067
+342,Male,E,some college,standard,completed,57.22711398,57.63721186,56.66844978
+343,Male,B,associate's,standard,none,62.90323643,59.31272394,60.39806155
+344,Male,C,high school,standard,none,34.54363584,39.41702453,49.10635227
+345,Female,C,associate's,free/reduced,completed,62.92950668,58.27291274,
+346,Female,C,associate's,standard,none,74.93625656,67.91873164,
+347,Male,D,some college,standard,completed,43.00599384,50.00668237,50.33011967
+348,Male,D,associate's,standard,none,73.51440105,68.69275576,83.28218702
+349,Female,B,some college,standard,completed,62.71564685,65.36400994,56.13720157
+350,Female,C,high school,standard,none,60.84597328,57.00617469,52.44623099
+351,Female,C,bachelor's,standard,completed,79.89029296,67.5146658,79.58256471
+352,Female,E,some college,standard,none,63.29705799,59.02641639,60.65734233
+353,Male,D,associate's,standard,none,49.62059218,40.52602108,57.9801001
+354,Male,C,associate's,standard,none,99,48.68028225,57.78468576
+355,Female,B,master's,standard,none,51.46132587,50.01656487,32.1980579
+356,Male,B,high school,standard,none,60.90155598,56.99071364,58.85969452
+357,Female,C,associate's,free/reduced,completed,88.42466185,75.46714535,78.15548371
+358,Female,D,bachelor's,standard,none,42.10670936,30.47455434,43.38168596
+359,Female,B,some college,free/reduced,completed,56.86024913,57.73646322,51.88143494
+360,Male,E,master's,free/reduced,completed,74.81869669,72.78784977,
+361,Female,B,bachelor's,standard,completed,74.08009708,78.70959678,72.33108524
+362,Male,A,bachelor's,free/reduced,none,,69.44679469,68.66623067
+363,Female,A,bachelor's,standard,none,62.17360024,56.64189485,65.58064575
+364,Female,D,master's,free/reduced,completed,73.20849528,56.80213539,52.40007241
+365,Male,C,master's,standard,completed,90.23756847,89.61431931,81.02812522
+366,Female,D,bachelor's,standard,none,71.9439468,65.94062392,61.922367
+367,Female,D,bachelor's,free/reduced,none,70.46773571,64.39778717,63.88707379
+368,Male,D,high school,free/reduced,none,56.35018854,50.23019182,50.78685867
+369,Male,D,high school,free/reduced,completed,74.79782653,63.55461337,70.20329852
+370,Male,E,associate's,standard,none,52.12428731,54.59934935,48.22650189
+371,Male,E,high school,standard,none,45.48766861,35.94422648,36.335802
+372,Male,B,associate's,free/reduced,completed,76.95321184,80.71836376,68.09771588
+373,Female,A,some college,standard,none,38.49956837,50.13488794,38.00629293
+374,Male,D,some college,free/reduced,none,59.10615412,51.49712321,53.88928199
+375,Male,B,bachelor's,free/reduced,completed,68.20129977,54.2400583,35.60244403
+376,Female,A,master's,standard,completed,60.13094323,38.97655952,60.7553678
+377,Male,C,high school,standard,none,43.82478904,32.8572808,41.03653917
+378,Female,E,associate's,standard,none,58.69228689,59.85850711,43.47321797
+379,Male,A,bachelor's,standard,none,76.40755908,69.82840418,74.39395067
+380,Male,C,high school,free/reduced,none,47.1645041,49.3226066,51.04936878
+381,Female,A,bachelor's,standard,completed,86.5605768,60.15579552,71.70505372
+382,Female,E,some college,free/reduced,none,58.75815073,50.90208809,45.08851349
+383,Female,E,some college,standard,none,73.72461643,76.23164477,66.5059697
+384,Female,B,master's,free/reduced,none,61.74610069,55.54135628,57.44204118
+385,Female,D,some college,standard,none,57.41428494,42.88235583,60.73295942
+386,Male,A,bachelor's,standard,none,68.42180324,60.42353378,57.71381421
+387,Male,A,bachelor's,standard,completed,69.84587445,56.21626649,71.84840668
+388,Female,C,high school,free/reduced,none,66.43628977,62.4966498,55.5121046
+389,Female,E,bachelor's,free/reduced,completed,45.5092353,44.2962895,33.99999514
+390,Female,A,master's,free/reduced,completed,100,93.89802316,79.31132181
+391,Male,E,high school,standard,none,65.29329528,49.22658245,58.51188029
+392,Male,A,bachelor's,standard,none,61.91761805,52.84848099,56.05656892
+393,Female,B,associate's,standard,none,,58.75257967,53.05082987
+394,Male,D,associate's,standard,none,49.60295266,36.36797406,46.99113367
+395,Female,A,associate's,standard,none,67.74738569,52.78564314,68.59666583
+396,Female,E,some college,free/reduced,none,69.93978003,64.0492135,60.26788883
+397,Male,B,master's,free/reduced,none,67.04968646,62.58110356,44.30556413
+398,Female,A,master's,free/reduced,completed,90.28388496,73.80211497,76.03562366
+399,Female,C,associate's,free/reduced,none,,,31.30704369
+400,Male,D,bachelor's,standard,completed,58.9942698,58.51150684,56.6470021
+401,Female,A,associate's,standard,none,81.76009446,78.11715086,79.32481201
+402,Female,B,associate's,standard,completed,75.09330336,57.7662042,58.17738253
+403,Female,C,bachelor's,free/reduced,none,80.76217842,73.48618998,81.49722195
+404,Male,B,associate's,standard,none,49.7527235,59.41067062,54.56461088
+405,Female,B,associate's,standard,completed,56.9176953,51.76113498,62.63258186
+406,Male,C,bachelor's,standard,none,59.69668817,46.13380289,56.49812633
+407,Male,B,associate's,standard,none,50.1112939,38.57473516,40.1380102
+408,Female,C,high school,free/reduced,completed,71.46438252,62.31238736,69.70087884
+409,Male,A,high school,free/reduced,none,45.98648732,52.77664393,40.11346361
+410,Male,C,associate's,standard,none,45.9399617,44.12892448,46.01984848
+411,Female,C,bachelor's,free/reduced,completed,97,,63.69620522
+412,Female,D,associate's,free/reduced,completed,52.52016589,41.41939096,58.8120863
+413,Female,C,bachelor's,standard,completed,50.40643282,,54.13524768
+414,Female,C,associate's,standard,none,61.59908681,47.03404654,55.70681611
+415,Male,A,associate's,standard,completed,,41.22104774,
+416,Male,D,some college,standard,none,67.30335276,65.51683346,55.37659425
+417,Male,E,associate's,free/reduced,completed,51.25599528,32.12654448,54.53809492
+418,Female,A,bachelor's,standard,completed,45.11191456,45.22562512,46.72146057
+419,Female,A,bachelor's,free/reduced,completed,68.4744402,53.04324162,
+420,Female,E,associate's,standard,completed,69.73513404,62.43374572,47.75659273
+421,Female,C,high school,standard,none,60.89770076,52.85683071,57.41041775
+422,Male,B,high school,standard,completed,65.06418839,75.64481989,50.3897583
+423,Female,D,high school,standard,completed,50.28824855,44.5712169,
+424,Male,B,bachelor's,standard,none,72.55673417,79.15876161,69.62171043
+425,Female,E,some college,free/reduced,completed,77.52166208,72.83686489,77.43350694
+426,Male,A,associate's,standard,none,45.53085446,37.73646908,38.77659899
+427,Female,A,associate's,standard,completed,65.82792634,62.01743215,59.0380245
+428,Male,D,high school,standard,completed,59.70671967,52.34476179,
+429,Male,A,some college,standard,completed,68.64457899,63.42069417,60.11046404
+430,Male,A,some college,standard,none,55.5409145,45.94455797,52.31424625
+431,Female,D,some college,standard,none,57.18546674,66.41052112,59.22552747
+432,Female,D,some college,standard,none,65.70178636,66.6795245,53.91389141
+433,Male,E,bachelor's,standard,completed,58.6337628,54.22957465,42.01408894
+434,Male,A,high school,standard,none,63.84847762,71.71927636,71.49098336
+435,Female,A,master's,standard,none,82.69359278,72.61442854,80.2547622
+436,Male,E,some college,standard,completed,85.60961992,82.98821466,64.80982337
+437,Female,C,bachelor's,standard,none,38.27959211,39.01609878,40.64636239
+438,Female,C,associate's,free/reduced,completed,65.80518011,62.50498584,67.465347
+439,Male,C,bachelor's,free/reduced,completed,48.41879311,45.66258458,52.85388259
+440,Male,E,bachelor's,standard,completed,42.77923572,42.84683762,46.4971562
+441,Female,A,associate's,standard,none,61.72911657,57.66109231,
+442,Male,E,associate's,free/reduced,none,55.21017849,,65.56975991
+443,Male,E,associate's,free/reduced,none,63.59821142,54.49010923,59.5575832
+444,Female,C,associate's,standard,none,65.83353228,57.64110908,55.28046917
+445,Female,B,high school,free/reduced,none,69.9747515,64.31875176,69.35042691
+446,Female,A,some college,standard,none,58.6470451,53.74065167,54.99434161
+447,Female,C,associate's,standard,completed,100,96.69446083,89.01617435
+448,Male,B,associate's,standard,completed,71.67691826,70.53463525,65.23257476
+449,Male,B,bachelor's,standard,none,86.10974853,73.01169095,77.97322354
+450,Female,D,bachelor's,free/reduced,completed,44.00594639,54.05873097,35.85663138
+451,Female,A,master's,free/reduced,completed,93.19687435,94.88182075,67.49289844
+452,Male,B,some college,standard,completed,63.83087412,41.52254523,69.43129115
+453,Female,C,some college,standard,completed,42.61983289,49.42319535,44.68295617
+454,Male,D,some college,standard,none,63.04654131,51.7410324,63.56028796
+455,Female,A,associate's,standard,none,56.36453354,58.67938433,38.50439039
+456,Male,E,bachelor's,free/reduced,none,70.96063898,73.12638276,71.62512494
+457,Male,C,some college,standard,none,70.13291749,55.58374736,58.32381543
+458,Male,B,bachelor's,standard,completed,54.1301986,35.77903216,44.52399766
+459,Male,B,some college,free/reduced,completed,78.17902779,75.31774355,67.78191467
+460,Male,C,associate's,standard,none,,56.14153522,47.43214106
+461,Female,B,associate's,free/reduced,none,76.2340941,53.82806054,66.87469416
+462,Female,D,some college,standard,completed,63.53822125,77.89018198,56.65681253
+463,Female,A,associate's,free/reduced,none,54.35509329,55.76167527,59.61883441
+464,Female,D,some college,standard,none,58.32464849,59.10428669,
+465,Male,B,high school,standard,completed,64.22232848,69.09328838,70.09220285
+466,Male,E,associate's,standard,none,52.04658238,44.38834516,31.35741948
+467,Female,A,high school,standard,none,49.04434323,47.82689032,39.83059249
+468,Male,A,some college,free/reduced,none,43.27749359,,24.96070127
+469,Female,C,associate's,free/reduced,completed,62.78425892,52.22460661,47.65632823
+470,Male,C,associate's,standard,none,68.11572072,64.17207054,55.84717323
+471,Female,E,bachelor's,standard,none,62.35174991,43.4415351,60.17775286
+472,Male,A,high school,standard,none,67.10878355,55.2412713,56.15885828
+473,Female,E,bachelor's,standard,none,,48.90766311,52.54132883
+474,Female,C,some college,standard,none,40.82178403,41.75307599,42.84580197
+475,Female,C,some college,free/reduced,completed,73.16729865,69.47308408,51.00597787
+476,Male,A,bachelor's,standard,none,55.91652231,,45.55115084
+477,Female,D,high school,standard,completed,60.19959253,63.14022756,51.31525362
+478,Female,B,associate's,standard,none,74.85086457,77.1150832,64.27340658
+479,Female,C,associate's,free/reduced,none,46.06955448,49.41012949,45.78571115
+480,Female,C,some college,free/reduced,none,,70.08138128,67.18858464
+481,Female,D,some college,free/reduced,none,57.5137798,54.09135502,60.67661074
+482,Male,D,some college,standard,none,66.41110859,58.4217622,53.66151799
+483,Female,E,bachelor's,standard,none,74.26184039,70.5548392,63.3778926
+484,Female,E,associate's,free/reduced,none,63.16606805,55.64326164,54.8440559
+485,Female,B,some college,free/reduced,completed,61.67550424,71.07714601,52.29314292
+486,Male,B,associate's,standard,none,65.68047005,68.30822032,61.47006504
+487,Male,A,bachelor's,free/reduced,completed,88.02787077,82.02312823,60.50183053
+488,Female,E,high school,free/reduced,completed,62.67252072,58.0557453,64.16993003
+489,Female,C,associate's,standard,none,56.79292663,49.3348776,66.4393135
+490,Male,E,associate's,free/reduced,none,64.65804309,64.10413236,56.3950667
+491,Female,C,master's,standard,none,69.46472424,53.08176357,59.69968606
+492,Male,D,some college,standard,none,41.94748691,53.73552345,43.45854456
+493,Male,E,some college,standard,none,60.8719696,54.23288356,63.98290593
+494,Male,D,some college,free/reduced,completed,49.83885109,49.81999219,45.28962305
+495,Male,B,associate's,free/reduced,none,64.49376776,51.09351721,65.90707411
+496,Female,B,some college,free/reduced,none,48.43428731,52.10960559,50.78064424
+497,Male,A,associate's,standard,completed,68.44249765,57.70194033,80.17148986
+498,Female,E,bachelor's,free/reduced,none,68.68712687,66.70917548,58.82543523
+499,Female,D,bachelor's,free/reduced,completed,100,92.14427787,69.23372133
