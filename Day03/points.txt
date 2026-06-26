@@ -1,0 +1,126 @@
+EDA 
+---
+Exploratory Data Analysis
+
+
+Dataset
+-------
+titanic.csv
+
+Step-01
+------
+create or load the dataset
+
+Step-02
+-------
+inspect the dataset
+
+Step-03
+-------
+MVA - Missing Value Analysis
+
+
+1. Introduction to Supervised Learning 
+
+What is supervised learning?
+
+Supervised Learning is a ML technique where the models are trained on datasets that contains inputs (features) and known outputs
+
+Titanic Dataset
+---------------
+Age
+Sex
+Fare
+SibSp
+Parch
+
+Output
+------
+Survived(0, 1)
+
+Classification - discrete output var  -> result of interview = Pass / Fail
+
+Regression - continuous output var  -> temperature -> 28 dc, 30 dc, 26dc
+
+
+Classification
+--------------
+1. Email filtering => email is a spam or not_spam
+
+2. Medical Diagnosis => predict whether the patient is diabetic or non diabetic
+
+3. Credit Scoring => predict whether the loan applicant is high risk or low risk
+
+4. Sentiment Analysis =>  predict whether the product review is positive, neutral or negative
+
+5. Image Recognition => predict if the image is of a dog, cat or a bird
+
+
+Regression
+----------
+House price prediction => Estimate the selling price of a house on features like size, location, and number of rooms
+
+Stock Market Forecasting => Predict the future price of a stock given historical trends and market indicators
+
+Weather forecasting => predict the temperature (a continuous value) based on the past weather
+
+Sales forecasting => Estimate monthly sales revenue based on advertising spend, seasonality and market condition
+
+
+Classification
+--------------
+Binary Classification
+---------------------
+
+Marks
+-----
+Maths    Science     Social      Result
+---------------------------------------
+ 85	   69          80         Pass
+ 18        45          52         Fail
+ 39        75          80         Pass
+ 02        10          15         Fail
+
+
+Multi Class Classification
+
+Maths	Results
+45	Third Class
+12	Fail
+85	Distinction
+73	First Class
+58	Second Class
+
+Regression
+----------
+Maths	Science	Social	Result
+67	80	73	73.33
+59	68	65	64.00
+35	49	40	41.33
+15	39	34	29.33
+93	96	90	93.00
+
+Classification Algorithms
+-------------------------
+1. Random Forest
+2. Decision Tree
+3. Logistic Regression
+4. Support Vector Machines
+
+
+Regression Algorithms
+---------------------
+1. Linear Regression
+2. Polynomial Regression
+3. Regression Tree
+
+
+
+
+2. Regression Algorithms and Use Cases 
+
+3. Model Training and Evaluation Basics
+
+
+
+
