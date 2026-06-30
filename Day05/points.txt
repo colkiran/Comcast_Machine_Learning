@@ -1,0 +1,140 @@
+Polynomial Regression
+---------------------
+We Polynomial Regression when the relationship between independent variables and dependent variables are non linear, but can be approximated by polynomial functions. It extends the linear regression by adding higher order terms like x**2, x**3... allowing the model to fit the curve.
+
+Example - population growth, disease spread, chemical reaction, sales trends, seasonal effects etc
+
+
+x		y
+-------------------
+1		2
+2	        5
+3	       10	
+4	       17
+5	       26
+6	       37
+7	       50
+
+
+Pattern is close to y = x ** 2 + 1
+
+Logistic Regression
+-------------------
+It is used for classification Problem unlike linear regression (which predicts continuous values), logistic regression predicts the probability of belonging to a class (yes / no, spam / not spam, infected / not infected)
+
+
+Hours Study		Pass(1) / Fail(0)
+-----------------------------------------
+   29			     	0
+   15				0
+   33				1
+   28				1
+   39				1
+
+logistic regression as classifier to answer the following questions.
+
+1. calculate the probability of pass for the student who studied for 33 hours
+
+2. At least how many hours should the student take to score more than 95%
+
+
+log(odds) = -64 + 2 * hours
+
+we sigmoid function in logistic regression
+
+s(x) = 1 / 1 + e ** (-x)
+
+
+1. Linear Regression
+
+2. Multiple Regression
+
+3. Polynomial Regression
+
+4. Logistic Regression
+
+
+Model Training and Evaluation Basics
+------------------------------------
+1. Evaluation Metrics - are measures we use to assess how well the Machine Learning model performs. They tell us whether the model is making good predictions where it struggles and how it compares to other models. Choosing the right metric depends on the type of problem (classification, regression, clustering etc.,)
+
+Common Evaluation Metrics 
+-------------------------
+	
+Accuracy = Proportion of correct predictions
+
+		    correct predictions
+	accuracy =  -------------------
+                     Total predictions
+
+
+
+
+Precision -> of the predicted positives how many are truly positive
+			TP
+	precision = ----------
+		     TP + FP
+
+TP = True Positive
+FP = False Positive
+
+
+F1-Score -> Harmonic mean of precision and recall
+ 			 Precision * Recall
+		F1 = 2 * -------------------
+			 Precision + Recall
+
+
+For Regressions we have 
+-----------------------
+MEAN ABSOLUTE ERROR (MAE) - Average absolute difference between predicted and actual values
+
+MEAN SQUARED ERROR (MSE) - Average squared difference between (penalized large errors)
+
+ROOT MEAN SQUARED ERROR (RMSE) - squared root of MSE interpretable in original units
+
+R**2 (coefficient of determination) -> How much variance in the target is explained by the model
+
+
+2. Regularization
+------------------
+Regularization is a technique in ML that helps prevent overfitting by adding penalty to the models loss function
+
+Overfitting happens when a model learns the training data too well (including noise), but fails to generalise to new data.
+
+Regularization keeps the model simpler by discouraging large coefficient values ensuring better generalization
+
+we have three types of regularization 
+
+1. L1 Regularization(Lasso)
+	penalty = sum of absolute of coefficients
+	Effects = Shrinks some coefficients to ZERO -> performs feature selection
+
+Eg: If your are predicting exam scores from 10 features (hours, sleep, diet etc)
+    we have a feature favourite color which will shrink to zero as this is irrelevant to the scenario and keeping only useful ones
+
+
+
+2. L2 Regularization(Ridge)
+       penalty = sum of squares of coefficients
+       Effects = Shrinks coefficients smoothly but keeps all features
+
+Eg: L2 won't eliminate features but will reduce their influence proportionally, ensuring 
+    no single feature dominates
+
+3.Elastic Net
+       combination of L1 and L2
+       Useful when features are correlated
+
+
+3. Cross Validation
+
+4. Hyperparameter Tuning
+
+5. Underfitting and Overfitting
+
+6. Bias Variance
+
+
+
+
