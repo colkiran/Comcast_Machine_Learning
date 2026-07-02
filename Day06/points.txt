@@ -1,0 +1,145 @@
+Model Training and Evaluation Basics
+------------------------------------
+
+1. Metric Evaluation
+
+2. Regularization
+
+---------------------------------------------------------
+
+3. Cross Validation
+-------------------
+used to assess how well a machine learning model generalizes to unseen data. Instead of training and testing on single split, cross validation systematically divides the dataset into multiple folds ensuring every data gets a chance to be in both training and testing sets.
+
+Why cross validation?
+a. Prevents overfitting by testing the model on multiple   
+   unseen subsets
+
+b. Provides more robust estimate of model performance 
+   compared to a single train-test set.
+
+c. Helps in model selection and hyperparameter tuning
+
+Types of Cross Validation
+--------------------------
+1. K-Fold Cross Validation
+   this is one of the most widely used techniques to evaluate machine learning models. It ensures every data point gets a chance to be in both the training set and validation set making the performance estimate more reliable
+
+   a. split the data into k-folds (equal sized 
+      subset)
+
+   b. iteration process
+	for each fold 
+	   use k-1 folds of training
+	   use the remaining 1 fold for validation
+
+
+Repeat k times so that each fold serves as the validation set once
+
+aggregate results by averaging the performance metrics across all the folds
+
+
+2. Stratifled K-Fold
+ Ensures each fold has the same class distribution as the original dataset (important for classification problems)
+
+3. Leave one out(LOO)
+ special case K-Fold where k = n(number of samples)
+ each sample is tested once, trained on all others
+
+100 data points to choose 5-Fold cross validation
+
+1. split into 5 folds of 20 points each
+
+2. train on 80 points, validate on 20 -> repeat 5 times
+
+3. final performance - average of 5 validation scores
+
+This avoids bias from a single train-test split and gives a robust estimate of model generalization
+
+
+
+
+
+4. Hyperparameter Tuning
+
+is a process of finding the best set of hyperparameters for a machine learning model to maximize its performance
+
+What are hyperparameters?
+
+PARAMETERS - Learned from data during training(Weights in linear regression)
+
+HYPERPARAMETERS - set before training control the learning process (learning rate, number of neighbours in KNN, depth of a decision tree)
+
+hyperparameters cannot be learned directly from the data -  they must be chosen and tuned.
+
+
+why tuning?
+
+Different hyperparameters can drastically change the model performance
+
+Eg:  A decision tree with depth = 2 may underfit, while dept = 20 may overfit
+
+Tuning helps us find the sweet spot for generation
+
+Different types of Hyperparameter Tunings
+------------------------------------------
+1. Grid Search
+   a. Try all combinations of hyperparameters from a 
+      predefined set 
+   
+   b. Exhaustive and computationally expensive
+
+
+2. Random Search
+   a. Randomly sample hyperparameters from a distribution
+   
+   b. faster and often finds good results
+
+
+3. Bayesian Optimization / Advanced Methods
+
+   a. use probabilistic models to guide search intelligently.
+
+
+5. Underfitting and Overfitting
+--------------------------------
+Underfitting
+------------
+The model is TOO SIMPLE to capture the underlying patterns in the data
+
+Symptoms:
+	  a. low accuracy on training data
+	  b. low accuracy on test data
+
+Cause: Model lacks complexity(eg: using a straight line for a data that clearly a curve)
+
+Overfitting
+-----------
+The model is TOO COMPLEX and learns not only the patterns but also the noise in the training data
+
+Symptoms: 
+	  a. Very high accuracy on training data
+	  b. Poor accuracy on test data (fails to 
+		generalize)
+
+Cause: Model memorizes training data instead of learning 
+	general rules
+
+
+We will compare using
+Linear Regression (simple model -> underfitting) 
+    vs
+Polynomial Regression (complex model -> overfitting)
+
+
+
+
+6. Bias Variance
+
+
+Unsupervised Learning
+
+Reinforcement Learning
+
+
+
