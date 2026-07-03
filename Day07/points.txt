@@ -1,0 +1,87 @@
+Bias Variance
+-------------
+Bias Variance tradeoff explains why models that are too simple underfit and models that are too complex overfit. The key is to balance both so the model generalizes well to unseen data.
+
+Error due to overly simplistic assumptions.
+	a. Example - A straight line model for a dataset with curves patterns
+	b. Loads a underfitting (poor performance on both training and test data)
+
+Error due to sensitivity on training data
+	a. Example - A very high degree polynomial that fits every training point
+	b. leads to overfitting (Excellent training accuracy but poor test 
+	   accuracy)
+
+
+Error = Bias ** 2 + variance + Irreducible Error
+
+High Bias
+---------
+Model - Simple Linear Regression using only median income
+
+Result
+	Training Error : High
+	Test Error : High
+	Model misses nonlinear relationship(income vs house value is not perfectly 
+	linear)
+
+
+High Variance 
+-------------
+Model - polynomial regression with degree 15
+
+Result
+	Training Error : Very low (fits the noise perfectly)
+	Test Error : very high (fails to generalize)
+	Model memorizes training data patterns instead of learning true 
+	relationships
+
+
+Balanced Bias-Variance
+----------------------
+Model - Polynomial regression with degree 3-4 + Regularization (Ridge / Lasso)
+
+Result
+	Training Error: Moderate
+	Test Error: los
+	captures nonlinear trends but avoids fitting noise
+
+
+Model Type			Bias	  Variance	Outcome
+
+Linear Regression		High	  Low		underfitting
+
+Polynomial (degree 15)		Low	  High		Overfitting
+
+Polynomial (degree 3- 4)
+         +			Moderate  Moderate	Best Balance
+   Regularization
+
+
+Introduction to Unsupervised Learning 
+Clustering Techniques and Use Cases 
+Dimensionality Reduction Concepts 
+
+Reinforcement Learning
+----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
