@@ -1,0 +1,26 @@
+
+End-to-End Machine Learning Workflow 
+
+Model Deployment Overview 
+Mini Project: Build and Evaluate a Machine Learning Model 
+
+Mini Project 
+------------
+Complete end to end Machine Learning Workflow
+
+Case Study: Predicting House Price (California Housing Dataset, available in sklearn dataset) to predict median house values based on features like population, income and location
+
+1. Problem Definition
+---------------------
+Goal - Predict Median House Prices
+
+Type - Supervised and regression problem
+
+2. Data Collection
+------------------
+we will use built-in California Housing Dataset
+
+
+
+
+
